@@ -6,7 +6,7 @@
 
 :root {
     --text-color: #ffffff;
-    --background: url(../assets/bg-mobile-dark.jpg);
+    --background: url(../assets/bg-desktop-dark.jpg);
     --stroke-color: rgba(255, 255, 255, 0.5);
     --surface-color: rgba(255, 255, 255, 0.05);
     --surface-color-hover: rgba(0, 0, 0, 0.02);
@@ -16,7 +16,7 @@
 
 .light{
     --text-color: #000000;
-    --background: url(../assets/bg-mobile-light.jpg);
+    --background: url(../assets/bg-desktop-light.jpg);
     --stroke-color: rgba(0, 0, 0, 0.5);
     --surface-color: rgba(0, 0, 0, 0.05);
     --surface-color-hover: rgba(0, 0, 0, 0.02);
